@@ -112,6 +112,13 @@ textarea {
 
 /* Header */
 
+#header {
+    background: url('https://lh3.googleusercontent.com/z3pjKUrg-XQrz7NUFGmDKSqrypA6U6Ql0AOinARBnxjLFVUyPtC1fGP0G1jUnCyLgAK1nahe98DuIw_Y217wAE2MAm6pQ-RwiAcAmqY39lrM3118_WhFk_D7VOKMpdyzCVpmAXhxGXynGWASVRZIPhiwhp3W48KnF8Hqjz0t8oexILRjGmOeAnOOhS7BIYdxAcWhVAbP_5fiBglFNMVJMeiEa54jLPfwhGjUMqHU2tICzXeB3s5EHS7-AoxFUZyX9kfTwg7cg08NhlR6EiFik4ApaNMTPc00Xi57V69ePixbA5jpV8Ii_YVSM6SUJmr0T-WRnSDKyzjkdZbcoHAmV6wwS1avbPxSvFNdEITeoeg0vkkdtEu-X8EuTAXI0uefJbm28GXJFSUUoK0zA0L7pSbNaRzYdm5akCHBC1H_weo_6_PDp8ojPLJS1yz_yc8Tgvvs0Ga5thnTvkaVpX-eLN68W3i2xGdOgPj59J-Dc82bDizYKp1Bd0gxOn4kPJdECstRQ6_MKNumENVjr_fte_sWtnfGxAcjq19YASz6256SAckmKAqnfxtingO_yRYBB7K3tYlJeLJm6KPc4d673DvjS0tRiBMpqNlh1kbkVQSXNOsGDmvMupzANY6omyA=w653-h374-no');
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 500px;
+}
+
 .navbar-brand {
     color: #BBC085;
     font-family: 'Lora', serif;
@@ -127,6 +134,16 @@ textarea {
     text-decoration: none;
     color: #828282;
     font-size: 18px;
+}
+
+#tagline {
+    font-size: 4.5em;
+    line-height: 1.25em;
+    font-family: 'Lora', serif;
+}
+
+#tagline span {
+    color: #9b9b9b;
 }
 
 
